@@ -1,0 +1,14 @@
+layout_spectrum: 0.6042553
+typography_spectrum: 0.4957447
+color:
+  saturation: 0.6990646
+  lightness: 0.159448
+  brandStrength: 0.7531915
+  brandColors:
+    - '#000000'
+    - '#8C8C8C'
+    - '#FFFFFF'
+    - '#0000FE'
+    - '#555555'
+  rhythmicContrast: 0.3148936
+name: www.iMarshals.com
